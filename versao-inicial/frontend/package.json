@@ -36,7 +36,13 @@
       "plugin:vue/essential",
       "eslint:recommended"
     ],
-    "rules": {},
+    "rules": {
+      "no-tabs": 0,
+      "indent": [
+        4,
+        "tab"
+      ]
+    },
     "parserOptions": {
       "parser": "babel-eslint"
     }
