@@ -10,10 +10,10 @@
 </template>
 
 <script>
-export default {
-  name: "PageTitle",
-  props: ["icon", "main", "sub"]
-};
+    export default {
+        name: "PageTitle",
+        props: ["icon", "main", "sub"]
+    };
 </script>
 
 <style>
