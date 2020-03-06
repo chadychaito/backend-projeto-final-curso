@@ -4,7 +4,7 @@
             <div class="article-item-image d-none d-sm-block">
                 <img
                     v-if="article.imageUrl"
-                    :src="article-imageUrl"
+                    :src="article.imageUrl"
                     height="150"
                     width="150"
                     alt="Article"
